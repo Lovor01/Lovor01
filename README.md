@@ -6,7 +6,7 @@ Although I am (mostly) web developer, I still did not find time to create a prop
 
 <br>
 
-- 🔭 Two major websites, one for government institution, other being internet/intranet website for educational company
+- 🔭 In development: two major websites, one for government institution, other being internet/intranet website for educational company
 - 🌱 I’m currently learning [eleventy](https://www.11ty.dev/)
 - 👯 I’m looking to collaborate with other developers, mostly on WordPress and other web projects
 - 💬 Ask me about WordPress block editor development (Gutenberg)
