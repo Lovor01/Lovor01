@@ -1,7 +1,41 @@
-### Hi there 👋
+### Hi there, I am Lovro Hrust, from small but beautiful country in Europe - Croatia 👋
+
+Although I am (mostly) web developer, I still did not find time to create a proper personal web page. This will hopefully change soon.
+
+## Full stack developer
+
+<br>
+
+- 🔭 Two major websites, one for government institution, other being internet/intranet website for educational company
+- 🌱 I’m currently learning [eleventy](https://www.11ty.dev/)
+- 👯 I’m looking to collaborate with other developers, mostly on WordPress and other web projects
+- 💬 Ask me about WordPress block editor development (Gutenberg)
+- ❄️ WordPress core contributor
+- ⚡ Fun fact: Amateur musician, proficient in music production
+
+<br>
+
+---
+
+<br>
+
+
+### Languages and Tools:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 <!--
-**Lovor01/Lovor01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
