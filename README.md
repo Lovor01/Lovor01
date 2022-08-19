@@ -7,7 +7,7 @@ Although I am (mostly) web developer, I still did not find time to create a prop
 <br>
 
 - 🔭 In development: one [block editor](https://wordpress.org/support/article/wordpress-editor/) project
-- 🌱 I’m currently learning [Vue.js]([https://woocommerce.com/](https://vuejs.org/))
+- 🌱 I’m currently learning [Vue.js](https://vuejs.org/)
 - 👯 I’m looking to collaborate with other developers, mostly on WordPress and other web projects
 - 💬 Ask me about WordPress block editor development (Gutenberg)
 - ❄️ WordPress core contributor
