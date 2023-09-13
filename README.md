@@ -11,7 +11,7 @@ Although I am (mostly) web developer, I still did not find time to create a prop
 - 👯 I’m looking to collaborate with other developers, mostly on WordPress and other web projects
 - 💬 Ask me about WordPress block editor development (Gutenberg)
 - ❄️ WordPress core contributor
-- ⚡ Fun fact: Amateur musician, proficient in music production
+- ⚡ Fun fact: Amateur musician, proficient in music production: https://soundcloud.com/krepaneriby
 
 <br>
 
